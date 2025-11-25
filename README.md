@@ -1,2 +1,21 @@
-# awesome-windbg
-Awesome WinDbg
+<div align="center">
+
+# Awesome [WinDbg](https://wikipedia.org/wiki/WinDbg) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+</div>
+
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]()
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)]()
+
+[WinDbg](https://learn.microsoft.com/windows-hardware/drivers/debuggercmds/windbg-overview) is a multipurpose debugger for the Microsoft Windows computer operating system, distributed by Microsoft.[2] It can be used to debug user mode applications, device drivers, and the operating system itself in kernel mode.
+
+<p align="center">
+    <a href="https://github.com/cybersecurity-dev/"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/github.svg" alt="GitHub"></a>
+    &nbsp;
+    <a href="https://www.youtube.com/@CyberThreatDefence"><img height="25" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/youtube.svg" alt="YouTube"></a>
+    &nbsp;
+    <a href="https://cyberthreatdefence.com/my_awesome_lists"><img height="20" src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/blog.svg" alt="My Awesome Lists"></a>
+    <img src="https://github.com/cybersecurity-dev/cybersecurity-dev/blob/main/assets/bar.gif">
+</p>
+
