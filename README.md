@@ -1,6 +1,6 @@
 <div align="center">
 
-# Awesome [WinDbg](https://wikipedia.org/wiki/WinDbg) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# **`Awesome`** [WinDbg](https://wikipedia.org/wiki/WinDbg) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 </div>
 
